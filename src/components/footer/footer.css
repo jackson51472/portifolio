@@ -1,5 +1,5 @@
 .footer {
-    background-color: #393838;
+    background-color: var(--color-footer-primary);
     padding: 1rem 0;
     text-align: center;
 }
@@ -19,14 +19,14 @@
 }
 
 .social-icons a {
-    color: #ffffff;
+    color: var(--color-text-primary);
     transition: all 0.3s ease;
     padding: 5px;
     border-radius: 5px;
 }
 
 .social-icons a:hover {
-    background-color: #ffffff;
+    background-color: var(--color-text-primary);
     color: #393838;
     transform: translateY(-3px);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@
 }
 
 .footer p {
-    color: #ffffff;
+    color: var(--color-text-primary);
     margin: 0;
 }
 

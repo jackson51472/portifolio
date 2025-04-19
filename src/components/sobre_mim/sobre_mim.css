@@ -1,0 +1,76 @@
+.sobre-mim {
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 4rem 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.titulo-sobre-mim {
+    margin-bottom: 2rem;
+}
+
+.titulo {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.emoji {
+    font-size: 3.5rem;
+    margin-right: 0.5rem;
+}
+
+.subtitulo {
+    font-size: 1.5rem;
+    color: #666;
+}
+
+.conteudo-sobre-mim {
+    margin-bottom: 2rem;
+}
+
+.descricao {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 1.5rem;
+}
+
+.contato-sobre-mim {
+    text-align: center;
+}
+
+.botao-contato {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.botao-contato:hover {
+    background-color: #c0392b;
+}
+
+.seta {
+    margin-left: 0.5rem;
+}
+
+.role-para-baixo {
+    margin-top: 2rem;
+    color: #666;
+}
+
+.icone-role {
+    display: block;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
