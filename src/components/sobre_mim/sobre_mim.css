@@ -4,10 +4,11 @@
     padding: 4rem 0;
 }
 
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 1rem;
+.con {
+    margin-top: 50PX;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .titulo-sobre-mim {

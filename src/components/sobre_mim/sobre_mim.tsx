@@ -35,12 +35,12 @@ const ContatoSobreMim: React.FC = () => (
 
 const SobreMim: React.FC = () => {
     return (
-        <section className="sobre-mim" style={{ padding: '200px' }} id="sobre-mim">
-
-            <TituloSobreMim />
-            <ConteudoSobreMim />
-            <ContatoSobreMim />
-
+        <section className="sobre-mim" id="sobre-mim">
+            <div className='con'>
+                <TituloSobreMim />
+                <ConteudoSobreMim />
+                <ContatoSobreMim />
+            </div>
         </section>
     );
 };
